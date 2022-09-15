@@ -21,10 +21,10 @@ createdAt
 
 ## Casos de Uso
 
-- Listagem de games com contagem de anúncios
-- Criação de novo anúncio
-- Listagem de anuncios por game
-- Buscar discord pelo ID do anúncio
+- Listagem de games com contagem de anúncios X
+- Criação de novo anúncio X
+- Listagem de anuncios por game X
+- Buscar discord pelo ID do anúncio X
 
 CRUD
 HTTP RESPONSE STATUS
